@@ -1,0 +1,2 @@
+# CompuParalela
+ trabajo computación paralela
